@@ -9,12 +9,12 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="400">
+  <img src="https://i.imgur.com/2Wz1Cg6.gif" width="500">
 </div>
 
 ## :man_technologist: About Me:
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and ML Enthusiast <img src="https://media.giphy.com/media/9yRMxLuRqyQ0x3jJXD/giphy.gif" width="30"> from India.
+I am a Full Stack Developer and ML Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: Contributing to frontend and backend for building web applications.
 
