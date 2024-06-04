@@ -3,7 +3,7 @@
 <div id="badges" align="center">
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avneet-sharma/)
-  [![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/avneets2003)
+  [![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shreksonic)
   [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/avneets2003/)
 
 </div>
@@ -14,13 +14,13 @@
 
 ## :man_technologist: About Me:
 
-I am a Full Stack Developer and ML Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer and Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: Contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring new programming languages and frameworks.
 
-- :zap: In my free time, I solve problems on LeetCode and watch tech videos on YouTube.
+- :zap: In my free time, I love to read books (mostly fiction) and stay updated with news.
 
 ## :hammer_and_wrench: Languages and Tools:
 
