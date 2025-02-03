@@ -42,6 +42,4 @@ I am a Full Stack Developer and Machine Learning Enthusiast <img src="https://me
 
 ## :fire: My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avneets2003)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=avneets2003&show_icons=true)  
