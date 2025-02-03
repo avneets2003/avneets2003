@@ -13,13 +13,13 @@
 
 ## :man_technologist: About Me:
 
-I am a Full Stack Developer and Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: Contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring new programming languages and frameworks.
 
-- :zap: In my free time, I love to read books (mostly fiction) and stay updated with news.
+- :zap: In my free time, I love to write short stories and poems, watch films and read books.
 
 ## :hammer_and_wrench: Languages and Tools:
 
